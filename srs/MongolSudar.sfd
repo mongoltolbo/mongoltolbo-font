@@ -19,8 +19,8 @@ FSType: 0
 OS2Version: 0
 OS2_WeightWidthSlopeOnly: 0
 OS2_UseTypoMetrics: 0
-CreationTime: 1409186414
-ModificationTime: 1409188353
+CreationTime: 1409188359
+ModificationTime: 1412447723
 PfmFamily: 17
 TTFWeight: 400
 TTFWidth: 5
@@ -70,14 +70,14 @@ Lookup: 6 0 0 "'calt' Contextual Alternates +GA4A-Sig"  {"'calt' Contextual Alte
 Lookup: 6 0 0 "'calt' Contextual Alternates QG-LM"  {"'calt' Contextual Alternates -C-G-C-"  "'calt' Contextual Alternates QG-LM-1"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MNG ' 'dflt' > ) ]
 Lookup: 6 0 0 "'calt' Contextual Alternates -G-C-VR-"  {"'calt' Contextual Alternates 1"  "'calt' Contextual Alternates 2"  "'calt' Contextual Alternates 3"  "'calt' Contextual Alternates 4"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MNG ' 'dflt' > ) ]
 Lookup: 6 0 0 "'calt' Contextual Alternates [DA|TA]"  {"'calt' Contextual Alternates TA-EE-"  "'calt' Contextual Alternates -EE-TA-"  "'calt' Contextual Alternates S-T-"  "'calt' Contextual Alternates F-C-V-T-"  "'calt' Contextual Alternates T.medi1-C"  "'calt' Contextual Alternates -C-[T|N]-C-"  "'calt' Contextual Alternates -[E|FVS1]-C-T-"  "'calt' Contextual Alternates A-UE-T-"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MNG ' 'dflt' > ) ]
-Lookup: 6 0 0 "'calt' Contextual Alternates DA"  {"'calt' Contextual Alternates ED"  "'calt' Contextual Alternates DED"  "'calt' Contextual Alternates D-V-F"  "'calt' Contextual Alternates D-C-V-"  "'calt' Contextual Alternates D-EE"  "'calt' Contextual Alternates DA-1"  "'calt' Contextual Alternates fvs1-D"  "'calt' Contextual Alternates -Y-D"  } ['calt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MCH ' 'MNG ' 'SIB ' 'TOD ' 'dflt' > ) ]
+Lookup: 6 0 0 "'calt' Contextual Alternates DA"  {"'calt' Contextual Alternates ED"  "'calt' Contextual Alternates ED-"  "'calt' Contextual Alternates DED"  "'calt' Contextual Alternates D-V-F"  "'calt' Contextual Alternates D-C-V-"  "'calt' Contextual Alternates D-EE"  "'calt' Contextual Alternates DA-1"  "'calt' Contextual Alternates fvs1-D"  "'calt' Contextual Alternates -Y-D"  } ['calt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MCH ' 'MNG ' 'SIB ' 'TOD ' 'dflt' > ) ]
 Lookup: 6 0 0 "'calt' Contextual Alternates UE"  {"'calt' Contextual Alternates UE-F"  "'calt' Contextual Alternates -T-C-UE-"  "'calt' Contextual Alternates F-UE-"  "'calt' Contextual Alternates -E-N-"  "'calt' Contextual Alternates C-C-UE-"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MNG ' 'dflt' > ) ]
 Lookup: 6 0 0 "'calt' Contextual Alternates [T|D|UE|N]"  {"'calt' Contextual Alternates -N-TA-"  "'calt' Contextual Alternates Medi FPTS-T"  "'calt' Contextual Alternates FL-N1"  "'calt' Contextual Alternates FL-N2"  } ['calt' ('DFLT' <'dflt' > 'cyrl' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MCH ' 'MNG ' 'SIB ' 'TOD ' 'dflt' > ) ]
 Lookup: 6 0 0 "'calt' Contextual Alternates Mix"  {"'calt' Contextual Alternates [G|Q].female-R"  "'calt' Contextual Alternates G-[L|D|V|SH]"  "'calt' Contextual Alternates G1-R"  "'calt' Contextual Alternates NNBS-[U|UE].medi-[N|D]"  "'calt' Contextual Alternates 15 hayaig"  "'calt' Contextual Alternates [U|UE]-[U|UE]"  "'calt' Contextual Alternates BUU"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MNG ' 'dflt' > ) ]
 Lookup: 6 0 0 "'calt' Contextual Alternates Medi Form"  {"'calt' Contextual Alternates NG-{}"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MNG ' 'dflt' > ) ]
 Lookup: 6 0 0 "'calt' Contextual Alternates MVS"  {"'calt' Contextual Alternates -MVS"  "'calt' Contextual Alternates AA-EE"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MNG ' 'dflt' > ) ]
 Lookup: 6 0 0 "'calt' Contextual Alternates AA"  {"'calt' Contextual Alternates -AA-EE"  "'calt' Contextual Alternates MVS-A"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MNG ' 'dflt' > ) ]
-Lookup: 6 0 0 "'calt' Contextual Alternates NNBS"  {"'calt' Contextual Alternates NNBS-I.medi-I"  "'calt' Contextual Alternates NNBS-I.medi2-N"  "'calt' Contextual Alternates NNBS-I.medi-G"  "'calt' Contextual Alternates NNBS-I.medi2-YA-[A|E]-[N|R]"  "'calt' Contextual Alternates NNBS-[O|U|OE|UE].isolfina"  "'calt' Contextual Alternates V-NNBS-I.fina"  "'calt' Contextual Alternates C-NNBS-I.fina"  "'calt' Contextual Alternates NNBS-YA.init1-I"  "'calt' Contextual Alternates NNBS-YA.init1-I-N"  "'calt' Contextual Alternates NNBS-YA.init1-[U|UE]-"  "'calt' Contextual Alternates NNBS-I-YA.medi1-"  "'calt' Contextual Alternates NNBS-C-UE.medi-"  "'calt' Contextual Alternates NNBS-C-V.fina1"  "'calt' Contextual Alternates N.fina-NNBS-I.medi2-N"  "'calt' Contextual Alternates C.fina-NNBS-IN"  "'calt' Contextual Alternates D.init"  "'calt' Contextual Alternates C-NNBS-D.medi-[U|UE]"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MNG ' 'dflt' > ) ]
+Lookup: 6 0 0 "'calt' Contextual Alternates NNBS"  {"'calt' Contextual Alternates NNBS-I.medi-I"  "'calt' Contextual Alternates NNBS-I.medi2-N"  "'calt' Contextual Alternates NNBS-I.medi-G"  "'calt' Contextual Alternates NNBS-I.medi2-YA-[A|E]-[N|R]"  "'calt' Contextual Alternates NNBS-[O|U|OE|UE].isolfina"  "'calt' Contextual Alternates C-NNBS-I.fina"  "'calt' Contextual Alternates NNBS-YA.init1-I"  "'calt' Contextual Alternates NNBS-YA.init1-I-N"  "'calt' Contextual Alternates NNBS-YA.init1-[U|UE]-"  "'calt' Contextual Alternates NNBS-I-YA.medi1-"  "'calt' Contextual Alternates NNBS-C-UE.medi-"  "'calt' Contextual Alternates NNBS-C-V.fina1"  "'calt' Contextual Alternates N.fina-NNBS-I.medi2-N"  "'calt' Contextual Alternates C.fina-NNBS-IN"  "'calt' Contextual Alternates D.init"  "'calt' Contextual Alternates C-NNBS-D.medi-[U|UE]"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MNG ' 'dflt' > ) ]
 Lookup: 6 0 0 "'calt' Contextual Alternates NNBS-I"  {"'calt' Contextual Alternates NNBS-Duger"  "'calt' Contextual Alternates NNBS-(A->E)-CHA-A"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MNG ' 'dflt' > ) ]
 Lookup: 6 0 0 "'calt' Contextual Alternates LM"  {"'calt' Contextual Alternates in QA-LA MA"  "'calt' Contextual Alternates LM-1"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MNG ' 'dflt' > ) ]
 Lookup: 6 0 0 "'calt' Contextual Alternates -FVS1"  {"'calt' Contextual Alternates Init-FVS1-"  "'calt' Contextual Alternates Medi-FVS1-"  "'calt' Contextual Alternates Fina-FVS1"  "'calt' Contextual Alternates -FVS1-[N|T]"  "'calt' Contextual Alternates -[fvs1|T1]-O"  "'calt' Contextual Alternates -fvs1-D"  } ['calt' ('DFLT' <'dflt' > 'grek' <'dflt' > 'latn' <'dflt' > 'mong' <'MNG ' 'dflt' > ) ]
@@ -195,6 +195,14 @@ KernClass2: 22 22 "'kern' Horizontal Kerning lookup 4-1"
  96 uni182A.medi1.B uni182B.medi1.P uni182C.medi3.Q uni182D.medi3.G uni183A.medi1.K uni183B.medi1.KH
  31 uni182D.init.GL uni182D.init.GM
  0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} -10 {} 0 {} -10 {} 0 {} 0 {} 5 {} 0 {} 0 {} -20 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -10 {} -10 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} 0 {} -10 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} 0 {} -10 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} -10 {} 0 {} 0 {} 5 {} 0 {} 0 {} -10 {} -60 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -10 {} 0 {} -10 {} -10 {} 0 {} 0 {} -10 {} 0 {} -10 {} -60 {} -50 {} 0 {} 0 {} 0 {} -50 {} -40 {} -50 {} -90 {} 0 {} 0 {} -90 {} -20 {} 0 {} 0 {} -80 {} -25 {} 0 {} 15 {} -40 {} -30 {} -25 {} -50 {} -40 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} -25 {} -10 {} -25 {} 0 {} -25 {} 0 {} 0 {} 5 {} 0 {} 0 {} -10 {} -60 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -3 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 3 {} 5 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} -10 {} 0 {} -10 {} 0 {} -10 {} -10 {} 3 {} 5 {} 0 {} 0 {} -10 {} -60 {} 0 {} 0 {} 0 {} 0 {} -5 {} -10 {} -17 {} -10 {} 0 {} 0 {} -10 {} 0 {} -10 {} 0 {} -10 {} -10 {} 0 {} 0 {} 0 {} 0 {} -10 {} -60 {} -40 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} -20 {} 0 {} -15 {} -13 {} -15 {} 0 {} -15 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -50 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -360 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -15 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -90 {} -50 {} -50 {} -30 {} -90 {} 0 {} -10 {} -90 {} -90 {} -10 {} 0 {} -90 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} -60 {} -20 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -60 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -10 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -70 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -380 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} -320 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {} 0 {}
+ChainSub2: coverage "'calt' Contextual Alternates ED-"  0 0 0 1
+ 1 1 1
+  Coverage: 14 uni1833.medi.D
+  BCoverage: 14 uni1821.init.E
+  FCoverage: 30 uni182F.medi.L uni182F.medi5.L
+ 1
+  SeqLookup: 0 "Single Substitution Medi" 
+EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates -Y-D"  0 0 0 1
  1 2 0
   Coverage: 14 uni1833.fina.D
@@ -611,7 +619,7 @@ ChainSub2: coverage "'calt' Contextual Alternates 3-Sig"  0 0 0 1
   BCoverage: 14 uni1830.init.S
   BCoverage: 5 space
   BCoverage: 1164 uni1828.fina.N uni1828.fina5.N uni182E.fina.M uni182E.fina5.M uni1832.fina.T uni1835.fina.J uni1834.fina.CH uni183C.fina.TS uni183D.fina.Z uni1822.fina.I uni1822.fina1.I uni1826.fina.UE uni1826.fina1.UE uni1825.fina.OE uni1825.fina1.OE uni1829.fina.NG uni182F.fina.L uni182F.fina5.L uni1833.fina.D uni1833.fina5.D uni1833.fina1.D uni1838.fina.W uni1838.fina1.W uni1840.medi.LH uni183F.fina.ZR uni183E.fina.HAA uni1827.fina.EE uni1836.fina.YA uni1830.fina.S uni1830.fina5.S uni1830.fina1.S uni1830.fina2.S uni1830.fina25.S uni1831.fina.SH uni1831.fina5.SH uni1837.fina.R uni1837.fina5.R uni182A.fina.B uni182A.fina1.B uni182A.fina.BI uni182A.fina1.BOE uni182A.fina1.BUE uni182A.fina.BEE uni1839.fina.F uni1839.fina.FI uni1839.fina1.FOE uni1839.fina1.FUE uni1839.fina.FEE uni182B.fina.P uni182B.fina.PI uni182B.fina1.POE uni182B.fina1.PUE uni182B.fina.PEE uni182C.fina.QI uni182C.fina1.QOE uni182C.fina1.QUE uni182C.fina.QEE uni182D.fina.GI uni182D.fina1.GOE uni182D.fina1.GUE uni182D.fina.GEE uni183A.fina.K uni183A.fina.KI uni183A.fina1.KOE uni183A.fina1.KUE uni183A.fina.KEE uni183B.fina.KH uni183B.fina.KHEE uni183B.fina1.KHOE uni183B.fina1.KHUE uni183B.fina.KHI
-  BCoverage: 1445 uni180A uni180B uni180C uni180D uni1828.medi.N uni1828.medi2.N uni1828.medi3.N uni1828.medi1.N uni182E.medi.M uni182E.medi5.M uni182E.medi.ML uni182E.medi.MM uni182E.medi5.ML uni182E.medi5.MM uni182E.medi1.M uni1832.medi.T uni1832.medi1.T uni1835.medi.J uni1834.medi.CH uni183C.medi.TS uni183D.medi.Z uni1822.medi.I uni1822.medi5.I uni1822.medi1.I uni1822.medi2.I uni1829.medi.NGN uni1829.medi.NG uni1829.medi1.NG uni1829.medi.NGL uni1829.medi.NGM uni1829.medi.NGQ uni182F.medi.L uni182F.medi5.L uni182F.medi.LL uni182F.medi1.L uni1833.medi.D uni1833.medi1.D uni1833.medi5.D uni1838.medi.W uni1838.medi1.W uni1840.medi.LH uni183F.medi.ZR uni183E.medi.HAA uni1841.medi.ZHI uni1842.medi.CHI uni1827.medi.EE uni1836.medi.YA uni1836.medi1.YA uni1830.medi.S uni1830.medi5.S uni1831.medi.SH uni1831.medi5.SH uni1837.medi.R uni1837.medi5.R uni182A.medi.B uni182A.medi1.B uni182A.medi.BL uni182A.medi.BM uni182A.medi.BI uni182A.medi.BEE uni1839.medi.F uni1839.medi1.F uni1839.medi.FL uni1839.medi.FM uni1839.medi.FI uni1839.medi.FEE uni182B.medi.P uni182B.medi.PL uni182B.medi.PM uni182B.medi.PI uni182B.medi.PEE uni182C.medi.Q uni182C.medi1.Q uni182C.medi.QI uni182C.medi.QEE uni182D.medi.G uni182D.medi1.G uni182D.medi2.G uni182D.medi3.G uni182D.medi.GI uni182D.medi.GEE uni183A.medi.K uni183A.medi1.K uni183A.medi.KL uni183A.medi.KM uni183A.medi.KI uni183A.medi.KEE uni183B.medi.KH uni183B.medi1.KH uni183B.medi.KHEE uni183B.medi.KHL uni183B.medi.KHM
+  BCoverage: 1397 uni180A uni180B uni180C uni180D uni1828.medi.N uni1828.medi2.N uni1828.medi3.N uni1828.medi1.N uni182E.medi.M uni182E.medi5.M uni182E.medi.ML uni182E.medi.MM uni182E.medi5.ML uni182E.medi5.MM uni182E.medi1.M uni1832.medi.T uni1832.medi1.T uni1835.medi.J uni1834.medi.CH uni183C.medi.TS uni183D.medi.Z uni1822.medi.I uni1822.medi5.I uni1829.medi.NGN uni1829.medi.NG uni1829.medi1.NG uni1829.medi.NGL uni1829.medi.NGM uni1829.medi.NGQ uni182F.medi.L uni182F.medi5.L uni182F.medi.LL uni182F.medi1.L uni1833.medi.D uni1833.medi1.D uni1838.medi.W uni1838.medi1.W uni1840.medi.LH uni183F.medi.ZR uni183E.medi.HAA uni1841.medi.ZHI uni1842.medi.CHI uni1827.medi.EE uni1836.medi.YA uni1836.medi1.YA uni1830.medi.S uni1830.medi5.S uni1831.medi.SH uni1831.medi5.SH uni1837.medi.R uni1837.medi5.R uni182A.medi.B uni182A.medi1.B uni182A.medi.BL uni182A.medi.BM uni182A.medi.BI uni182A.medi.BEE uni1839.medi.F uni1839.medi1.F uni1839.medi.FL uni1839.medi.FM uni1839.medi.FI uni1839.medi.FEE uni182B.medi.P uni182B.medi.PL uni182B.medi.PM uni182B.medi.PI uni182B.medi.PEE uni182C.medi.Q uni182C.medi1.Q uni182C.medi.QI uni182C.medi.QEE uni182D.medi.G uni182D.medi1.G uni182D.medi2.G uni182D.medi3.G uni182D.medi.GI uni182D.medi.GEE uni183A.medi.K uni183A.medi1.K uni183A.medi.KL uni183A.medi.KM uni183A.medi.KI uni183A.medi.KEE uni183B.medi.KH uni183B.medi1.KH uni183B.medi.KHEE uni183B.medi.KHL uni183B.medi.KHM
   BCoverage: 1213 uni1821.init.E uni1828.init.N uni1828.init1.N uni182E.init.M uni182E.init5.M uni1832.init.T uni1832.init5.T uni1835.init.J uni1834.init.CH uni183C.init.TS uni183D.init.Z uni1822.init.I uni1822.init5.I uni1826.init.UE uni1826.init1.UE uni1825.init.OE uni182F.init.L uni182F.init5.L uni1833.init.D uni1833.init5.D uni1833.init1.D uni1833.init15.D uni1838.init.W uni1840.init.LH uni183F.init.ZR uni183E.init.HAA uni1827.init.EE uni1836.init.YA uni1836.init1.YA uni1830.init.S uni1830.init5.S uni1831.init.SH uni1831.init5.SH uni1837.init.R uni1837.init5.R uni182A.init.B uni182A.init1.B uni182A.init.BL uni182A.init.BM uni182A.init.BE uni182A.init.BI uni182A.init.BEE uni1839.init.F uni1839.init1.F uni1839.init.FL uni1839.init.FM uni1839.init.FE uni1839.init.FI uni1839.init.FEE uni182B.init.P uni182B.init.PL uni182B.init.PM uni182B.init1.P uni182B.init.PE uni182B.init.PI uni182B.init.PEE uni182C.init.Q uni182C.init1.Q uni182C.init3.Q uni182C.init.QE uni182C.init.QI uni182C.init.QEE uni182D.init.G uni182D.init1.G uni182D.init.GE uni182D.init.GI uni182D.init.GEE uni183A.init.K uni183A.init1.K uni183A.init.KE uni183A.init.KEE uni183B.init.KH uni183B.init1.KH uni183B.init.KHE uni183B.init.KHEE uni183B.init.KHI
  1
   SeqLookup: 0 "Single Substitution toFemale" 
@@ -990,19 +998,10 @@ ChainSub2: coverage "'calt' Contextual Alternates NNBS-I.medi-I"  0 0 0 1
  1
   SeqLookup: 0 "Single Substitution Init" 
 EndFPST
-ChainSub2: coverage "'calt' Contextual Alternates V-NNBS-I.fina"  0 0 0 1
- 1 2 0
-  Coverage: 7 uni1822
-  BCoverage: 15 uni1806 uni202F
-  BCoverage: 1275 uni300B uni1820.fina.A uni1820.fina5.A uni1821.fina.E uni1821.fina5.E uni1822.fina.I uni1822.fina1.I uni1826.fina.UE uni1826.fina1.UE uni1824.fina.U uni1825.fina.OE uni1825.fina1.OE uni1827.fina.EE uni1823.fina.O uni1823.fina1.O uni1823.res.O uni182A.fina.BO uni182A.fina.BU uni182A.fina.BOE uni182A.fina.BUE uni182A.isol.BOE uni182A.isol.BUE uni182A.fina1.BOE uni182A.fina1.BUE uni182A.fina.BA uni182A.fina.BE uni182B.fina.PA uni182B.fina.PE uni182B.fina.PO uni182B.fina.PU uni182B.fina.POE uni182B.fina.PUE uni182B.isol1.POE uni182B.isol1.PUE uni182B.fina1.POE uni182B.fina1.PUE uni182B.isol.PEE uni182C.fina.QE uni182C.fina.QOE uni182C.fina.QUE uni182C.fina1.QOE uni182C.fina1.QUE uni182C.isol1.QOE uni182C.isol1.QUE uni182C.fina.QEE uni182D.medi.GE uni182D.isol.GE uni182D.fina.GOE uni182D.fina.GUE uni182D.medi.GOE uni182D.medi.GUE uni182D.fina1.GOE uni182D.fina1.GUE uni182D.isol1.GOE uni182D.isol1.GUE uni183A.fina.KA uni183A.fina.KE uni183A.fina.KO uni183A.fina.KU uni183A.fina.KOE uni183A.fina.KUE uni183A.fina1.KOE uni183A.isol1.KOE uni183A.fina1.KUE uni183A.isol1.KUE uni183B.fina.KHA uni183B.fina.KHE uni183B.fina.KHO uni183B.fina.KHU uni183B.fina.KHOE uni183B.fina.KHUE uni183B.fina1.KHOE uni183B.isol1.KHOE uni183B.fina1.KHUE uni183B.isol1.KHUE uni183B.fina.KHI
- 1
-  SeqLookup: 0 "Single Substitution Isol->Fina" 
-EndFPST
 ChainSub2: coverage "'calt' Contextual Alternates C-NNBS-I.fina"  0 0 0 1
- 1 2 0
+ 1 1 0
   Coverage: 7 uni1822
   BCoverage: 15 uni1806 uni202F
-  BCoverage: 1400 uni1828.medi.N uni1828.medi2.N uni1828.medi3.N uni1828.medi1.N uni1828.fina.N uni182E.medi.M uni182E.fina.M uni182E.medi.ML uni182E.medi.MM uni182E.medi5.ML uni182E.medi5.MM uni182E.medi1.M uni1832.medi.T uni1832.medi1.T uni1832.fina.T uni1835.medi.J uni1835.fina.J uni1834.medi.CH uni1834.fina.CH uni183C.medi.TS uni183C.fina.TS uni183D.medi.Z uni183D.fina.Z uni1829.medi.NG uni1829.fina.NG uni182F.medi.L uni182F.fina.L uni1833.medi.D uni1833.medi1.D uni1833.medi5.D uni1833.fina.D uni1833.fina1.D uni1838.medi.W uni1838.medi1.W uni1838.fina.W uni1838.fina1.W uni1840.medi.LH uni183F.medi.ZR uni183F.fina.ZR uni183E.medi.HAA uni183E.fina.HAA uni1841.medi.ZHI uni1842.medi.CHI uni1836.medi.YA uni1836.medi1.YA uni1836.fina.YA uni1830.medi.S uni1830.fina.S uni1830.fina5.S uni1830.fina1.S uni1830.fina2.S uni1831.medi.SH uni1831.fina.SH uni1831.fina5.SH uni1837.medi.R uni1837.medi5.R uni1837.fina.R uni182A.medi.B uni182A.medi1.B uni182A.fina.B uni182A.fina1.B uni182A.medi.BL uni182A.medi.BM uni1839.medi.F uni1839.medi1.F uni1839.fina.F uni182B.medi.P uni182B.fina.P uni182B.medi.PL uni182B.medi.PM uni182B.medi1.P uni182C.medi.Q uni182C.medi1.Q uni182C.fina.Q uni182C.fina1.Q uni182D.medi.G uni182D.medi1.G uni182D.medi2.G uni182D.fina.G uni182D.fina1.G uni182D.fina2.G uni183A.medi.K uni183A.medi1.K uni183A.fina.K uni183A.medi.KL uni183A.medi.KM uni183B.medi.KH uni183B.medi1.KH uni183B.fina.KH
  1
   SeqLookup: 0 "Single Substitution Isol->Fina" 
 EndFPST
@@ -1724,7 +1723,7 @@ Refer: 3 6146 N 1 0 0 1 1040 0 2
 Refer: 3 6146 N 1 0 0 1 690 0 2
 Refer: 3 6146 N 1 0 0 1 340 0 2
 Refer: 3 6146 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni1802
@@ -1759,7 +1758,7 @@ LayerCount: 2
 Fore
 Refer: 3 6146 N 1 0 0 1 340 0 2
 Refer: 3 6146 N 1 0 0 1 -10 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni1804
@@ -1801,7 +1800,7 @@ Refer: 3 6146 S 1 0 0 1 203 -330 2
 Refer: 3 6146 S 1 0 0 1 212 337 2
 Refer: 3 6146 S 1 0 0 1 422 7 2
 Refer: 3 6146 S 1 0 0 1 -2 -10 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni1806
@@ -3543,7 +3542,7 @@ HStem: 593 194<179.112 292.711>
 LayerCount: 2
 Fore
 Refer: 149 -1 S 1 0 0 1 50 0 2
-Validated: 98305
+Validated: 32769
 Ligature2: "'rlig' Required Ligatures orhits" uni1820.medi.A uni1820.fina.A
 LCarets2: 1 0 
 Ligature2: "'rlig' Required Ligatures Fina" uni1820.fina.A uni180B
@@ -3574,7 +3573,7 @@ HStem: 593 194<179.112 292.711>
 LayerCount: 2
 Fore
 Refer: 149 -1 S 1 0 0 1 50 0 2
-Validated: 98305
+Validated: 32769
 Ligature2: "'rlig' Required Ligatures orhits" uni1821.medi.E uni1821.fina.E
 LCarets2: 1 0 
 Ligature2: "'rlig' Required Ligatures Fina" uni1821.fina.E uni180B
@@ -5540,7 +5539,7 @@ VStem: 657 42<1172.53 1276.28> 417 42<1172.53 1276.28>
 LayerCount: 2
 Fore
 Refer: 1002 12298 S -1 0 0 -1 882 1297 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni1800.vertical
@@ -15882,7 +15881,7 @@ VStem: 50.8892 77.1108<690.658 833.235>
 LayerCount: 2
 Fore
 Refer: 491 -1 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Ligature2: "rlig G" uni182D.medi1.G uni1821.medi.E
 Ligature2: "rlig G" uni182D.medi.G uni1821.medi.E
 LCarets2: 1 0 
@@ -15898,7 +15897,7 @@ VStem: 51 77<691.654 834.339>
 LayerCount: 2
 Fore
 Refer: 493 -1 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Ligature2: "rlig G" uni182D.medi1.G uni1821.fina.E
 Ligature2: "rlig G" uni182D.medi.G uni1821.fina.E
 LCarets2: 1 0 
@@ -15914,7 +15913,7 @@ VStem: 51 77<691.654 834.339>
 LayerCount: 2
 Fore
 Refer: 492 -1 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "rlig G" uni182D.init.G uni1821.fina.E
 EndChar
@@ -15981,7 +15980,7 @@ VStem: -7 77<659.653 833.339>
 LayerCount: 2
 Fore
 Refer: 496 -1 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "rlig G" uni182D.init.G uni1822.fina1.I
 Ligature2: "rlig G" uni182D.init.G uni1822.fina.I
@@ -16148,7 +16147,7 @@ VStem: 48 77<691.654 834.339> 891 75<275.5 425.5>
 LayerCount: 2
 Fore
 Refer: 508 -1 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Ligature2: "rlig G" uni182D.init.G uni1827.medi.EE
 LCarets2: 1 0 
 EndChar
@@ -16457,7 +16456,7 @@ VStem: -6 71<626.036 822.305> 94 92<348 428> 309 30<264.117 280.996>
 LayerCount: 2
 Fore
 Refer: 550 -1 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 Ligature2: "rlig K" uni183A.medi.K uni1821.medi.E
 LCarets2: 1 0 
 EndChar
@@ -21469,7 +21468,7 @@ VStem: 186 61<1226.74 1355.81>
 LayerCount: 2
 Fore
 Refer: 756 12296 S -1 0 0 -1 620 1386 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni3010
@@ -24500,7 +24499,7 @@ VStem: 223 42<20.7243 124.473> 463 42<20.7243 124.473>
 LayerCount: 2
 Fore
 Refer: 146 12299 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uni180A.double
@@ -24596,7 +24595,7 @@ VStem: 20 207<590.507 754.67> 67 50<781.736 880.018> 471 44<425.478 546.703>
 LayerCount: 2
 Fore
 Refer: 16 6160 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'hlig' Historic Ligatures Digit" zero
 EndChar
@@ -24611,7 +24610,7 @@ VStem: -5 140<645.635 738.625> 446 90<362.37 631.25>
 LayerCount: 2
 Fore
 Refer: 17 6161 S 1 0 0 1 -48 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'hlig' Historic Ligatures Digit" one
 EndChar
@@ -24626,7 +24625,7 @@ VStem: 36 46<662.158 840.194>
 LayerCount: 2
 Fore
 Refer: 18 6162 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'hlig' Historic Ligatures Digit" two
 EndChar
@@ -24641,7 +24640,7 @@ VStem: 23 24<578.862 707.852> 179 25<759.687 868.929>
 LayerCount: 2
 Fore
 Refer: 19 6163 S 1 0 0 1 -4 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'hlig' Historic Ligatures Digit" three
 EndChar
@@ -24656,7 +24655,7 @@ VStem: 499 40<706.23 857.616>
 LayerCount: 2
 Fore
 Refer: 20 6164 S 1 0 0 1 -8 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'hlig' Historic Ligatures Digit" four
 EndChar
@@ -24671,7 +24670,7 @@ VStem: 212 58<379.5 555.373>
 LayerCount: 2
 Fore
 Refer: 21 6165 N 1 0 0 1 -30 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'hlig' Historic Ligatures Digit" five
 EndChar
@@ -24686,7 +24685,7 @@ VStem: 23 89<529.12 850.263> 383 39<410.374 450> 383 136<448.516 549.292>
 LayerCount: 2
 Fore
 Refer: 22 6166 N 1 0 0 1 1 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'hlig' Historic Ligatures Digit" six
 EndChar
@@ -24701,7 +24700,7 @@ VStem: 2 42<709 769.047> 164 115<346.002 474.319> 460 111<380.826 633.095>
 LayerCount: 2
 Fore
 Refer: 23 6167 N 1 0 0 1 -14 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'hlig' Historic Ligatures Digit" seven
 EndChar
@@ -24716,7 +24715,7 @@ VStem: 183 42<481.012 636.837>
 LayerCount: 2
 Fore
 Refer: 24 6168 S 1 0 0 1 -20 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'hlig' Historic Ligatures Digit" eight
 EndChar
@@ -24731,7 +24730,7 @@ VStem: 24 87<609.794 888.205> 275 122<784.028 926.012>
 LayerCount: 2
 Fore
 Refer: 25 6169 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 LCarets2: 1 0 
 Ligature2: "'hlig' Historic Ligatures Digit" nine
 EndChar
@@ -27666,7 +27665,7 @@ SplineSet
 EndSplineSet
 Refer: 756 12296 S 1 0 0 1 262 0 2
 Refer: 756 12296 N 1 0 0 1 0 0 2
-Validated: 98305
+Validated: 32769
 EndChar
 
 StartChar: uniE008
